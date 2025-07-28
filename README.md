@@ -8,18 +8,18 @@ SnapScribe is a smart AI-powered app that generates accurate and context-aware c
 ## Tech Stack
  Component       : Used Tool / Framework 
 -----------------------------------------
-### 📦 Tech Stack
+###  Tech Stack
 
-- 🧠 **Model:** [`nlpconnect/vit-gpt2-image-captioning`](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning)  
+- **Model:** [`nlpconnect/vit-gpt2-image-captioning`](https://huggingface.co/nlpconnect/vit-gpt2-image-captioning)  
   _(Vision Transformer as encoder + GPT-2 as decoder)_
 
-- 🔍 **Libraries:**  
+- **Libraries:**  
   `PyTorch`, `Hugging Face Transformers`, `Pillow (PIL)`
 
-- 🧪 **Frontend/UI:**  
+- **Frontend/UI:**  
   `Streamlit`
 
-- ☁️ **Deployment:**  
+- **Deployment:**  
   `Streamlit Community Cloud`
 
 
