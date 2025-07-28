@@ -4,9 +4,9 @@ import streamlit as st
 from PIL import Image
 from utils import generate_caption
 
-st.set_page_config(page_title="🖼 PicToWords")
+st.set_page_config(page_title=" PicToWords")
 
-st.title("🧠 See n Say: Image Caption Generator")
+st.title(" See n Say: Image Caption Generator")
 st.write("Upload an image to get an auto-generated caption!")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
